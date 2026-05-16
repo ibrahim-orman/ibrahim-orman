@@ -20,7 +20,7 @@
 
   <img src="https://img.shields.io/badge/INSTITUTION-BANDIRMA%20ONYED%C4%B0%20EYL%C3%9CL%20UNIVERSITY-cyan" alt="University">
 
-  <img src="https://img.shields.io/badge/LOCATION-BANDIRMA%20/%20IZMIR,%20TÜRKİYE-darkgray" alt="Location">
+  <img src="https://img.shields.io/badge/LOCATION-BANDIRMA%20/%20BANDIRMA,%20TÜRKİYE-darkgray" alt="Location">
 
 </p>
 
@@ -98,7 +98,7 @@ Teorik bilgimi pratikle birleştirmeyi seviyor, aile şirketimiz bünyesinde ope
 
 
 
-* 💼 [LinkedIn Profilim](www.linkedin.com/in/ibrahimorman) 
+* 💼 [www.linkedin.com/in/ibrahimorman](www.linkedin.com/in/ibrahimorman) 
 
 * 📧 [ormanibrahim3645@gmail.com](mailto:ormanibrahim3645@gmail.com)
 
