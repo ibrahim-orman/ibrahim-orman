@@ -98,7 +98,7 @@ Teorik bilgimi pratikle birleştirmeyi seviyor, aile şirketimiz bünyesinde ope
 
 
 
-* 💼 [www.linkedin.com/in/ibrahimorman](www.linkedin.com/in/ibrahimorman) 
+* 💼 www.linkedin.com/in/ibrahimorman
 
 * 📧 [ormanibrahim3645@gmail.com](mailto:ormanibrahim3645@gmail.com)
 
