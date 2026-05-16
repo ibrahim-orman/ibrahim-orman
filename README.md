@@ -20,7 +20,7 @@
 
   <img src="https://img.shields.io/badge/INSTITUTION-BANDIRMA%20ONYED%C4%B0%20EYL%C3%9CL%20UNIVERSITY-cyan" alt="University">
 
-  <img src="https://img.shields.io/badge/LOCATION-%20/%20BANDIRMA,%20TÜRKİYE-darkgray" alt="Location">
+  <img src="https://img.shields.io/badge/LOCATION-%20%20BANDIRMA,%20TÜRKİYE-darkgray" alt="Location">
 
 </p>
 
